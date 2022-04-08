@@ -45,13 +45,25 @@ footer {
   padding: 1rem 1rem;
   font-size: 2rem;
 }
+
+.fa-brands:hover{
+  color: #818da0;
+}
+
 .refresh{
   font-size: 3rem;
   color: white;
 }
+.refresh:hover{
+  color: #818da0;
+}
 
 a{
   color:white;
+}
+
+a:hover{
+  color: #818da0;
 }
 
 .result-image{
