@@ -12,9 +12,9 @@ image2.setAttribute("src", randomDiceSource2);
  
 
 // var resultImage1 = "<img src = " + "/images" + "/i1.ico";
-var resultImage1 = "<img "+"class = " + "'resultI'" +"src="+ "'/images/i1.png'></img>";
-var resultImage2 = "<img "+"class = " + "'resultI'" +"src="+ "'/images/i2.png'></img>";
-var resultImage3 = "<img "+"class = " + "'resultI'" +"src="+ "'/images/i3.png'></img>";
+var resultImage1 = "<img "+"class = " + "'resultI'" +"src="+ "'https://gopalverma1303.github.io/IncredibleDice/images/i1.png'></img>";
+var resultImage2 = "<img "+"class = " + "'resultI'" +"src="+ "'https://gopalverma1303.github.io/IncredibleDice/images/i2.png'></img>";
+var resultImage3 = "<img "+"class = " + "'resultI'" +"src="+ "'https://gopalverma1303.github.io/IncredibleDice/images/i3.png'></img>";
 
 
 if(randomNumber1 > randomNumber2) {
